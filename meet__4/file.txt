@@ -1,0 +1,14 @@
+index-> 0
+name-> bakal
+deep-> 14
+lenght-> 55
+weght-> 23
+type-> sea
+
+index-> 5
+name-> 
+deep-> 0
+lenght-> 0
+weght-> 0
+type-> 
+
